@@ -1,6 +1,9 @@
 body{
 	font-family: 'Silkscreen', cursive;
 }
+.bs{
+	border: solid black;
+}
 div,h4{
 	width: 17%;
 	height: 30px;
